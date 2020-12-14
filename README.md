@@ -3,7 +3,7 @@
 This repository is for showing how Git and GitHub work
 Test
 WILL BE STASHED
-
+WILL BE STAGED
 ## Purpose
 
 Sample website with plenty of files for demos
